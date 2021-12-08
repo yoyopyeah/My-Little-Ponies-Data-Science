@@ -1,6 +1,6 @@
 # My Little Ponies Data Science Project
 
-Performs data collection and analyzes 36860 speech acts from My Little Ponies [transcript](https://www.kaggle.com/liury123/my-little-pony-transcript). 
+    Performs data collection, filtering, reformatting, and analysis on 36860 speech acts from My Little Ponies [transcript](https://www.kaggle.com/liury123/my-little-pony-transcript). Analyzed data on individual and global scales, and examined the speech features of key characters.
 
 
 ## Set up
@@ -44,6 +44,7 @@ pip3 install -r requirements.txt
 ### Unit tests
 * Scripts under test/ performing unit tests, ensure the proper running of the programs.
     - Run with `python3 -m unittest`
+
 
 
 ## Reference
