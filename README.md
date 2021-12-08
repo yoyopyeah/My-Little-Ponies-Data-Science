@@ -1,6 +1,5 @@
 # My Little Ponies Data Science Project
-
-    Performs data collection, filtering, reformatting, and analysis on 36860 speech acts from My Little Ponies [transcript](https://www.kaggle.com/liury123/my-little-pony-transcript). Analyzed data on individual and global scales, and examined the speech features of key characters.
+Performs data collection, filtering, reformatting, and analysis on 36860 speech acts from My Little Ponies [transcript](https://www.kaggle.com/liury123/my-little-pony-transcript). Analyzed data on individual and global scales, and examined the speech features of key characters.
 
 
 ## Set up
