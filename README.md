@@ -5,10 +5,7 @@ Performs data collection, filtering, reformatting, and analysis on 36860 speech 
 ## Set up
 * Python 3.6 or higher
 * `pip` - see instructions [here](https://packaging.python.org/tutorials/installing-packages/)
-* Other packages - run at the project root:
-```
-pip3 install -r requirements.txt
-```
+* Other packages - run at the project root: `pip3 install -r requirements.txt`
 
 ## Project structure
 ```
