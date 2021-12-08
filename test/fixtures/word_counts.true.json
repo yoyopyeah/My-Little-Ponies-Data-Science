@@ -1,0 +1,24 @@
+{
+    "twilight sparkle": {
+        "oh": 1,
+        "talks": 1,
+        "wait": 4
+    },
+    "applejack": {
+        "wait": 2
+    },
+    "rarity": {
+        "wait": 1
+    },
+    "pinkie pie": {
+        "wait": 1
+    },
+    "rainbow dash": {
+        "wait": 2
+    },
+    "fluttershy": {
+        "oh": 6,
+        "talks": 5,
+        "wait": 2
+    }
+}
